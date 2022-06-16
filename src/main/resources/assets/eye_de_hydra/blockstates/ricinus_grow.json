@@ -1,0 +1,12 @@
+{
+  "variants": {
+  	"age=0": {"model":"eye_de_hydra:block/ricinus_grow0"},
+  	"age=1": {"model":"eye_de_hydra:block/ricinus_grow0"},
+  	"age=2": {"model":"eye_de_hydra:block/ricinus_grow0"},
+  	"age=3": {"model":"eye_de_hydra:block/ricinus_grow1"},
+  	"age=4": {"model":"eye_de_hydra:block/ricinus_grow1"},
+  	"age=5": {"model":"eye_de_hydra:block/ricinus_grow2"},
+  	"age=6": {"model":"eye_de_hydra:block/ricinus_grow2"},
+  	"age=7": {"model":"eye_de_hydra:block/ricinus_grow3"}
+  }
+}

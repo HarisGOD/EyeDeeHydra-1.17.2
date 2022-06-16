@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "eye_de_hydra:block/ricinus_grow1"
+  }
+}

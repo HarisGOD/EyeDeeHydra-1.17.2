@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "isiteminside=1": {"model": "eye_de_hydra:block/easypidestal"},
+    "isiteminside=0": {"model": "eye_de_hydra:block/easypidestal"}
+  }
+}

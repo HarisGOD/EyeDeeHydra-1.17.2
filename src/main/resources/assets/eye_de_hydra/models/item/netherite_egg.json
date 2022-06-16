@@ -1,0 +1,6 @@
+{
+"parent": "item/generated",
+	"textures": {
+	"layer0": "eye_de_hydra:item/netherite_egg"
+	}
+}

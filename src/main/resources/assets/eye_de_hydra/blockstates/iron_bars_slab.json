@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom":{
+		"model": "eye_de_hydra:block/ibs_d"
+		},
+		"type=double":{
+		"model": "eye_de_hydra:block/ibs_dd"
+		},
+		"type=top":{
+		"model": "eye_de_hydra:block/ibs_t"
+		}
+	}
+}

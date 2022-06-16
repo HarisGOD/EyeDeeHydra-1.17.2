@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "inscont=0": {"model": "eye_de_hydra:block/smellscauldron"},
+    "inscont=1": {"model": "eye_de_hydra:block/smellscauldron1"},
+    "inscont=2": {"model": "eye_de_hydra:block/smellscauldron2"}
+  }
+}

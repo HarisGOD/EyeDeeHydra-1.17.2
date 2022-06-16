@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "eye_de_hydra:rubbi"
+    }
+  },
+  "result": {
+    "item": "eye_de_hydra:clrubbi",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+  	"summoned=0,facing=east": {"model": "eye_de_hydra:block/amethyst_fox","y": 270},
+  	"summoned=0,facing=north": {"model": "eye_de_hydra:block/amethyst_fox","y": 180},
+  	"summoned=0,facing=west": {"model": "eye_de_hydra:block/amethyst_fox","y": 90},
+  	"summoned=0,facing=south": {"model": "eye_de_hydra:block/amethyst_fox"},
+  	"summoned=1,facing=east": {"model": "eye_de_hydra:block/amethyst_fox1","y": 270},
+  	"summoned=1,facing=north": {"model": "eye_de_hydra:block/amethyst_fox1","y": 180},
+  	"summoned=1,facing=west": {"model": "eye_de_hydra:block/amethyst_fox1","y": 90},
+  	"summoned=1,facing=south": {"model": "eye_de_hydra:block/amethyst_fox1"}
+  }
+}

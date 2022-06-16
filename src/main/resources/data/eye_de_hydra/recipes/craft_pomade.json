@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ"
+  ],
+  "key": {
+    "X": {
+      "item": "eye_de_hydra:crashed_rubbi"
+    },
+    "Y": {
+      "item": "eye_de_hydra:ricinus_oil"
+    },
+    "Z": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "eye_de_hydra:pomade",
+    "count": 1
+  }
+}

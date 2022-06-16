@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "eye_de_hydra",
+  "version": "${version}",
+
+  "name": "EyeDeHydra",
+  "description": " ",
+  "authors": [
+    "HarisGOD"
+  ],
+  "contact": {
+    "homepage": "https://vk.com/drkubovoii",
+    "sources": "nothing"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/eye_de_hydra/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+    {
+    "value": "Eye.De.Hydra.EyeUnDeHydra"
+    }
+    ],
+    "client": [
+      {
+        "value": "Eye.De.Hydra.EyeUnDeHydraClient"
+      }
+    ]
+},  
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

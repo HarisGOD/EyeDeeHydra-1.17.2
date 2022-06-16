@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:stone"
+    },
+    "Y": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "eye_de_hydra:pencil",
+    "count": 1
+  }
+}

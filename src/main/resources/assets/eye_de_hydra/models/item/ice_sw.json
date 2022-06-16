@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "eye_de_hydra:item/i_sw1"
+  }
+}
